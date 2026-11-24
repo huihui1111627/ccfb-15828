@@ -16,3 +16,7 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+/results/
+/results_demo/
+/results_verify/
+*.pyc
